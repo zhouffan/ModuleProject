@@ -1,0 +1,3 @@
+include ':library-1'
+include ':app'
+rootProject.name = "ModuleProject"
