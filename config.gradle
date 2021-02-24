@@ -2,7 +2,7 @@ ext {
 
     // true 发布环境，将所有可执行Module集成化为Library，打包到App主模块里
     // false 开发环境，将所有Library组件化为可执行Module，供开发人员开发
-    isRelease = true
+    isRelease = false
 
     kotlin_version = "1.3.72"
     ktx_version = "1.3.2"
