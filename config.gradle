@@ -20,7 +20,7 @@ ext {
     application = [
             compileSdkVersion: 29,
             buildToolsVersion: "30.0.2",
-            minSdkVersion    : 19,
+            minSdkVersion    : 26,
             targetSdkVersion : 30
     ]
     //各模块AppId 字典配置

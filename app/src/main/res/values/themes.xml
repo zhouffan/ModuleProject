@@ -12,5 +12,12 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+
+        <!--禁用预览视图并且关闭透明视图-->
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowDisablePreview">false</item>
+        <!-- 站位背景图， 否则白色背景 -->
+        <item name="android:windowSplashscreenContent">@drawable/ic_launcher_foreground</item>
+
     </style>
 </resources>
