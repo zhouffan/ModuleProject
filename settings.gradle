@@ -1,6 +1,6 @@
 include ':kotlin-learn'
 include ':mvc-mvp-mvvm'
 include ':testNavigation'
-include ':library-1'
+include ':library-test'
 include ':app'
 rootProject.name = "ModuleProject"

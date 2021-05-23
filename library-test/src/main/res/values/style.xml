@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomView">
+        <!-- 自定义属性 -->
+        <attr name="layout_simple_attr" format="boolean"/>
+        <!-- 使用系统预置的属性 -->
+        <attr name="android:layout_gravity"/>
+    </declare-styleable>
+</resources>
